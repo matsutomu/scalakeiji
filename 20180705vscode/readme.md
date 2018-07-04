@@ -34,13 +34,13 @@ $sbt new scala/hello-world.g8
 ![VS Code インストール](vs_code01.png "VS Codeダウンロード")
 
 以下は Macでのインストールの様子です。  
-![VS Code インストール](vs_code02.png "VS Codeダウンロード")
+![VS Code インストール1](vs_code02.png "VS Codeダウンロード")
 
-![VS Code インストール](vs_code03_2.png "VS Codeダウンロード")
+![VS Code インストール2](vs_code03_2.png "VS Codeダウンロード")
 
-![VS Code インストール](vs_code03_3.png "VS Codeダウンロード")
+![VS Code インストール3](vs_code03_3.png "VS Codeダウンロード")
 
-![VS Code インストール](vs_code04.png "VS Codeダウンロード")
+![VS Code インストール4](vs_code04.png "VS Codeダウンロード")
 
 ![VS Code起動直後](vs_code05.png "VS Code起動直後")
 
@@ -54,7 +54,7 @@ $sbt new scala/hello-world.g8
 
 --------
 
-## 2.3 デバックコンソール  
+## 2.3 デバッグコンソール  
 
 ![VS Code コンソール1](vs_code12.png "VS Codeダウンロード")
 
