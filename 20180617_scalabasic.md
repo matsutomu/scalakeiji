@@ -126,6 +126,16 @@
 
 
 ## 関数
+### 無名関数
+  - 単純なもの
+  https://github.com/scalatra/scalatra/blob/8e722f53c2b207d328b87fcb856d6dd1cdccf450/core/src/test/scala/org/scalatra/util/conversion/ConversionsSpecs.scala#L30  
+  
+  https://github.com/scalikejdbc/scalikejdbc/blob/25c0400dbd607ae2bf76e5489ad1f2b334a477fd/scalikejdbc-core/src/test/scala/scalikejdbc/SQLSpec.scala#L39  
+
+  - 高階関数（＆ カリー化？）  
+  https://github.com/scalikejdbc/scalikejdbc/blob/8480501e463479f88914a4a14f08b05116a51fb7/scalikejdbc-core/src/main/scala/scalikejdbc/SQL.scala#L499  
+
+
 
 ## Implicit
 
@@ -172,5 +182,13 @@ https://docs.scala-lang.org/style/
 ・"." が不要な例
 https://github.com/gitbucket/gitbucket/blob/4f92739d7375960ee2464aaff2f9e872caa38dcb/src/test/scala/gitbucket/core/service/ServiceSpecBase.scala#L24
 
-・ローンパターン  
-・色々なロケットシンボル
+- ローンパターン  
+  https://github.com/scalikejdbc/scalikejdbc/blob/e6746d851733f3498ff7acf611d505419ea0e9cf/scalikejdbc-core/src/main/scala/scalikejdbc/LoanPattern.scala#L16   
+
+  (利用する側)
+  https://github.com/scalikejdbc/scalikejdbc/blob/7b2aa3df936ea9f6281031954f1b1ff1352e3144/scalikejdbc-test/src/main/scala/scalikejdbc/scalatest/AutoRollback.scala#L57
+
+- 色々なロケットシンボル
+
+- Qiita:[Scalaの記号みたいな奴らなんなの](https://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)  
+  https://qiita.com/harry0000/items/113b5ddbe64a2835a6e2
